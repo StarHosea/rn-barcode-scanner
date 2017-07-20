@@ -1,0 +1,8 @@
+<resources>
+  <string name="default_scanning_tip">放入框内，自动扫描</string>
+  <string name="default_title">条码扫描</string>
+  <string name="scanner_processing">处理中</string>
+  <string name="scanner_result_not_found">没有扫描到任何结果</string>
+  <string name="scanner_dialog_ok">确定</string>
+  <string name="no_image_selected">没有选择图片</string>
+</resources>

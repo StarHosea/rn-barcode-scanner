@@ -1,0 +1,22 @@
+{
+  "name": "rn-barcode-scanner",
+  "version": "0.0.9",
+  "description": "barcode scanner for react native",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StarHosea/rn-barcode-scanner.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "barcode",
+    "scanner"
+  ],
+  "author": "star",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StarHosea/rn-barcode-scanner/issues"
+  },
+  "homepage": "https://github.com/StarHosea/rn-barcode-scanner#readme"
+}

@@ -1,0 +1,7 @@
+<resources>
+  <string name="default_scanning_tip">Into the box, automatic identification</string>
+  <string name="scanner_processing">processing</string>
+  <string name="scanner_result_not_found">not found any bar code</string>
+  <string name="scanner_dialog_ok">OK</string>
+  <string name="no_image_selected">You haven\'t picked Image</string>
+</resources>
