@@ -15,8 +15,8 @@ import android.util.AttributeSet;
 import android.view.View;
 import com.google.zxing.ResultPoint;
 import io.comi.rn.barcode.scanner.IViewfinder;
+import io.comi.rn.barcode.scanner.R;
 import io.comi.rn.barcode.scanner.camera.CameraManager;
-import io.comi.rn.scanner.R;
 
 /**
  * This view is overlaid on top of the camera preview. It adds the viewfinder rectangle and partial

@@ -24,9 +24,9 @@ import com.linchaolong.android.imagepicker.cropper.CropImage;
 import com.linchaolong.android.imagepicker.cropper.CropImageView;
 import io.comi.rn.barcode.scanner.AbsCaptureActivity;
 import io.comi.rn.barcode.scanner.IViewfinder;
+import io.comi.rn.barcode.scanner.R;
 import io.comi.rn.barcode.scanner.Size;
 import io.comi.rn.barcode.scanner.camera.FrontLightMode;
-import io.comi.rn.scanner.R;
 
 /**
  * 扫码界面成品

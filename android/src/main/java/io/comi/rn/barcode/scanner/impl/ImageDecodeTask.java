@@ -11,7 +11,7 @@ import com.google.zxing.MultiFormatReader;
 import com.google.zxing.NotFoundException;
 import com.google.zxing.Result;
 import com.google.zxing.common.GlobalHistogramBinarizer;
-import io.comi.rn.scanner.R;
+import io.comi.rn.barcode.scanner.R;
 import java.lang.ref.WeakReference;
 import java.util.Map;
 

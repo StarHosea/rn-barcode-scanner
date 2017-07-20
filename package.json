@@ -1,6 +1,6 @@
 {
   "name": "rn-barcode-scanner",
-  "version": "0.0.9",
+  "version": "0.0.13",
   "description": "barcode scanner for react native",
   "main": "index.js",
   "repository": {

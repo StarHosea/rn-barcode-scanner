@@ -1,3 +1,4 @@
 rootProject.name = 'example'
-
+include ':rn-barcode-scanner'
+project(':rn-barcode-scanner').projectDir = new File(rootProject.projectDir, '../node_modules/rn-barcode-scanner/android')
 include ':app'

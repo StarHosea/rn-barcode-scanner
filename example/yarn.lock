@@ -3366,6 +3366,10 @@ rimraf@~2.2.6:
   version "2.2.8"
   resolved "https://registry.yarnpkg.com/rimraf/-/rimraf-2.2.8.tgz#e439be2aaee327321952730f99a8929e4fc50582"
 
+rn-barcode-scanner@^0.0.13:
+  version "0.0.13"
+  resolved "https://registry.yarnpkg.com/rn-barcode-scanner/-/rn-barcode-scanner-0.0.13.tgz#30f66abac655fd142d11f54f203a469c9aedbe63"
+
 rndm@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/rndm/-/rndm-1.2.0.tgz#f33fe9cfb52bbfd520aa18323bc65db110a1b76c"
