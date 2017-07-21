@@ -2,6 +2,8 @@
 
 A Barcode scanner for React Native.
 
+![](http://i1.buimg.com/601556/3cd5d77587fa38bc.png)
+
 
 ## Installation
 1. install from npm
